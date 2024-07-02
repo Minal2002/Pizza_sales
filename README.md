@@ -1,2 +1,2 @@
-# Pizza_sales
+# Pizza_sales_using_MYSQL
 
